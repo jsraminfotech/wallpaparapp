@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d1381a</color>
+    <color name="colorPrimaryDark">#4b0e0e</color>
+    <color name="colorAccent">#FF4081</color>5
+
+
+    <!--<color name="colorPrimary">#891818</color>-->
+    <!--<color name="colorPrimaryDark">#8c1a1a</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <!--selector color-->
+    <color name="selectorcolor">#FF4081</color>
+
+    <color name="catnameColor">#000</color>
+
+</resources>

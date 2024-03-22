@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">wally HD Wallpapers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Tabname1">Featured</string>
+    <string name="Tabname2">Category</string>
+
+<!--testing ads-->
+    <string name="ad_attribution" translatable="false">Ad</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2482957086497397~4732106214</string>
+    <string name="interstitial_ad_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ad_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="fb_interstitial_ad_id" translatable="false">869371136799162_869381750131434</string>
+    <string name="fb_native_ad_id" translatable="false">YOUR_PLACEMENT_ID</string>
+    <string name="fb_banner_ad_id">869371136799162_869380856798190</string>
+
+
+<!--    <string name="ad_attribution" translatable="false">Ad</string>-->
+<!--    <string name="admob_app_id" translatable="false">ca-app-pub-2482957086497397~4732106214</string>-->
+<!--    <string name="interstitial_ad_id" translatable="false">ca-app-pub-2482957086497397/3771406007</string>-->
+<!--    <string name="native_ad_id" translatable="false">ca-app-pub-2482957086497397/1914371188</string>-->
+<!--    <string name="banner_ad_id">ca-app-pub-2482957086497397/8479779533</string>-->
+
+<!--    <string name="fb_interstitial_ad_id" translatable="false">869371136799162_869381750131434</string>-->
+<!--    <string name="fb_native_ad_id" translatable="false">YOUR_PLACEMENT_ID</string>-->
+<!--    <string name="fb_banner_ad_id">869371136799162_869380856798190</string>-->
+</resources>
